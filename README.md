@@ -30,8 +30,6 @@ Praticar:
 3. Execute a aplicação.
 
 ## 📷 Demonstração
-```
-## 📷 Demonstração
 
 ![Tela do projeto](Captura%20de%20tela%20de%202026-08-03%2020-10-32.png)
 
